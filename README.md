@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a flutter multiplatform real life meetup app.
+- 🌱 I’m currently learning deep learning
+- 📫 How to reach me: check my website, https://skyenygaard.com
+
+
 <!--
 **SkyeNygaard/SkyeNygaard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
