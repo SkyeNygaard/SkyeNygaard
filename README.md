@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a flutter multiplatform real life meetup app.
-- 🌱 I’m currently learning deep learning
-- 📫 How to reach me: check my website, https://skyenygaard.com
+- I’m currently a machine learning engineer in industry
+- I’m interested in ai alignment and other big problems in ai 
+- How to reach me: check my website, https://skyenygaard.com
 
 
 <!--
