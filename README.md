@@ -1,11 +1,12 @@
+
+
+
+<!--
 ### Hi there 👋
 
 - I’m currently a machine learning engineer in industry
 - I’m interested in ai alignment and other big problems in ai 
 - How to reach me: check my website, https://skyenygaard.com
-
-
-<!--
 **SkyeNygaard/SkyeNygaard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
